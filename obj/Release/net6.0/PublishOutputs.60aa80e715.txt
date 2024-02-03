@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TestDeploymentApplication\TestDeploymentApplication\bin\Release\net6.0\publish\TestDeploymentApplication.exe
+C:\Users\user\Desktop\TestDeploymentApplication\TestDeploymentApplication\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\user\Desktop\TestDeploymentApplication\TestDeploymentApplication\bin\Release\net6.0\publish\appsettings.json
+C:\Users\user\Desktop\TestDeploymentApplication\TestDeploymentApplication\bin\Release\net6.0\publish\TestDeploymentApplication.dll
+C:\Users\user\Desktop\TestDeploymentApplication\TestDeploymentApplication\bin\Release\net6.0\publish\TestDeploymentApplication.deps.json
+C:\Users\user\Desktop\TestDeploymentApplication\TestDeploymentApplication\bin\Release\net6.0\publish\TestDeploymentApplication.runtimeconfig.json
+C:\Users\user\Desktop\TestDeploymentApplication\TestDeploymentApplication\bin\Release\net6.0\publish\TestDeploymentApplication.pdb
